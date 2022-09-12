@@ -20,9 +20,9 @@ Consider the following dataset and we will find frequent itemsets and generate a
 
   **Step-1:** K=1
 
-(I) Create a table containing support count of each item present in dataset – Called C1(candidate set)    
+(I) Create a table containing support count of each item present in dataset – Called C1(candidate set)                                                               
 ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/Capture-129.png)                                                                                         
-(II) compare candidate set item’s support count with minimum support count(here min_support=2 if support_count of candidate set items is less than min_support then remove those items). This gives us itemset L1.
+(II) compare candidate set item’s support count with minimum support count(here min_support=2 if support_count of candidate set items is less than min_support then remove those items). This gives us itemset L1.                                                                                                                         
 ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/Capture-129.png)                                                         
 
 **Step-2:** K=2
