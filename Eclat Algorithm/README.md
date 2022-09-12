@@ -6,7 +6,7 @@ The basic idea is to use Transaction Id Sets(tidsets) intersections to compute t
 
 Consider the following transactions record:-
 
-![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20190611105423/Data3.png)
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20190611105423/Data3.png)                                                                               
 The above-given data is a boolean matrix where for each cell (i, j), the value denotes whether the j’th item is included in the i’th transaction or not. 1 means true while 0 means false.
 
 We now call the function for the first time and arrange each item with it’s tidset in a tabular fashion:-
