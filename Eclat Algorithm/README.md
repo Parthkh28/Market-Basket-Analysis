@@ -13,7 +13,7 @@ We now call the function for the first time and arrange each item with it’s ti
 
 **k = 1, minimum support = 2**
 
-![alt text](https://i.postimg.cc/NfqKjpdb/11-09-2022-22-03-13-REC.png)
+![alt text](https://i.postimg.cc/NfqKjpdb/11-09-2022-22-03-13-REC.png)                                                                                                 
 We now recursively call the function till no more item-tidset pairs can be combined:-
 
 **k = 2**
@@ -26,10 +26,10 @@ We now recursively call the function till no more item-tidset pairs can be combi
 
 **k=4**
 
-![alt text](https://i.postimg.cc/mDyQyJpL/11-09-2022-21-59-43-REC.png)
+![alt text](https://i.postimg.cc/mDyQyJpL/11-09-2022-21-59-43-REC.png)                                                                                                 
 
 We stop at k = 4 because there are no more item-tidset pairs to combine.   
-Since minimum support = 2, we conclude the following rules from the given dataset:-
+Since minimum support = 2, we conclude the following rules from the given dataset:-                                                                                     
 ![alt text](https://i.postimg.cc/8P2jswwt/11-09-2022-22-01-00-REC.png)
 
 ## Advantages of ECLAT Algorithm
