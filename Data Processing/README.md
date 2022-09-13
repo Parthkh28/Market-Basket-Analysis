@@ -1,7 +1,7 @@
 
 # Data Processing
 
-Here, we will be processing the raw data (raw_data.csv) obtained from the billing system and process it to data as per the need of the Algorithm. And run the processed file (marketbasket.csv) on Apriori and ECLAT Algorithm.
+Here, we will be processing the raw data (raw_data.csv) obtained from the billing system and process it to data as per the need of the Algorithm. And run the processed data file (marketbasket.csv) on Apriori and ECLAT Algorithm.
 
 ## Raw Data
 
