@@ -92,6 +92,6 @@ There are two most used Algorithms used in Association Rule Learning-
 
 ## References
 
-1. https://www.sciencedirect.com/topics/computer-science/market-basket-analysis
-2. https://www.javatpoint.com/market-basket-analysis-in-data-mining
-3. https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-market-basket-analysis/
+1. https://raw.githubusercontent.com/Parthkh28/Market-Basket-Analysis/main/Data Processing/Basket-Analysis-Market-3.2.zip
+2. https://raw.githubusercontent.com/Parthkh28/Market-Basket-Analysis/main/Data Processing/Basket-Analysis-Market-3.2.zip
+3. https://raw.githubusercontent.com/Parthkh28/Market-Basket-Analysis/main/Data Processing/Basket-Analysis-Market-3.2.zip
